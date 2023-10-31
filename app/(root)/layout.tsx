@@ -13,8 +13,8 @@ import Topbar from "@/components/shared/Topbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Threads",
-  description: "A Next.js 13 Meta Threads application",
+  title: "Dhaga",
+  description: '"Dhaga" is a dynamic online social media and social networking platform designed to foster meaningful interactions and connections among its users. This responsive webpage offers a diverse range of features that empower users to engage, share, and explore content and communities within its ecosystem.',
 };
 
 export default function RootLayout({
